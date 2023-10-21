@@ -8,13 +8,17 @@ With a bunch of giant, brightly-lit, slam-resistant buttons, we had to do stuff!
 
 I wish I had more photos but this was a very fun project and I am now officially tired of procrastinating putting the code on GitHub.
 
-Neel playing whack-a-mole:
+WHACK-A-MOLE:
 
-![](https://doggo.ninja/exEfo0.png)
+https://github.com/kognise/gameshow/assets/42556441/3ad79760-291b-429c-97da-ead167e40451
 
 Me doing terribly at the rhythm game:
 
 ![](https://doggo.ninja/6XiTg8.png)
+
+More whack-a-mole:
+
+![](https://doggo.ninja/exEfo0.png)
 
 ## Notes
 
